@@ -1,7 +1,7 @@
 <% @ Page Language="C#" MasterPageFile="~/layouts/1cole-wet4.master" Codebehind="Dashboard.aspx.cs" CodeFile="Dashboard.aspx.cs" Inherits="WebformSubmission" AutoEventWireup="False" %>
 
 <asp:Content ID="PageTitle" ContentPlaceHolderID="PageTitle" Runat="Server">
-	Dashboard
+	Dashboard Update
 </asp:Content>
 
 <asp:Content ID="Metadata" ContentPlaceHolderID="Metadata" Runat="Server">
